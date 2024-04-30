@@ -4,4 +4,6 @@
 * Взаимодействие с Arduino по RS-485, формат - JSON(?) 
 * Взаимодействие с UI с помощью API (REST - ?), Аутентификация - ?
 * Взаимодействие с доменом с помощью API (REST - ?), Аутентификация - ?  
-UI - desktop - Qt
+UI - desktop - Qt  
+
+Фреймворки для Python https://flask.palletsprojects.com/en/3.0.x/ , https://sanic.readthedocs.io/en/latest/, https://twisted.org/
